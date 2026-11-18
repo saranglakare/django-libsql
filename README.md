@@ -3,6 +3,9 @@
 This project integrates Turso/Libsql with Django, allowing you to use Libsql as a database backend for your Django
 applications.
 
+This repository is a fork of [aaronkazah/django-libsql](https://github.com/aaronkazah/django-libsql).
+See the [changelog](CHANGELOG.md) for changes in this fork.
+
 ## Installation
 
 To install the package, use pip:
